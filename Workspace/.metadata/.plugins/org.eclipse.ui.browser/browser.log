@@ -1,0 +1,17 @@
+
+5월 08, 2023 16:38:59.534 NEW SESSION
+5월 08, 2023 16:38:59.534 [14416:14380:0508/163859.530:ERROR:device_event_log_impl.cc(222)] [16:38:59.530] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 08, 2023 16:39:00.197 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 08, 2023 17:40:17.584 [14416:19124:0508/174017.584:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+5월 08, 2023 22:29:26.726 [14416:19124:0508/222926.653:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -7
+5월 08, 2023 22:29:27.39 [14416:7776:0508/222927.039:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+5월 08, 2023 22:29:39.982 [14416:14380:0508/222939.981:ERROR:device_event_log_impl.cc(222)] [22:29:39.981] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 08, 2023 22:29:40.15 [14416:14380:0508/222940.015:ERROR:device_event_log_impl.cc(222)] [22:29:40.015] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 08, 2023 22:29:40.130 [14416:14380:0508/222940.130:ERROR:device_event_log_impl.cc(222)] [22:29:40.130] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 08, 2023 22:29:40.148 [14416:14380:0508/222940.148:ERROR:device_event_log_impl.cc(222)] [22:29:40.148] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 08, 2023 22:29:52.568 [14416:14380:0508/222952.568:ERROR:device_event_log_impl.cc(222)] [22:29:52.568] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 08, 2023 22:29:52.625 [14416:14380:0508/222952.625:ERROR:device_event_log_impl.cc(222)] [22:29:52.624] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 08, 2023 22:30:29.930 [14416:14380:0508/223029.929:ERROR:device_event_log_impl.cc(222)] [22:30:29.929] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 08, 2023 22:42:13.643 [14416:14380:0508/224213.642:ERROR:device_event_log_impl.cc(222)] [22:42:13.642] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 08, 2023 22:42:13.666 [14416:14380:0508/224213.666:ERROR:device_event_log_impl.cc(222)] [22:42:13.666] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 08, 2023 22:42:21.210 [14416:14380:0508/224221.210:ERROR:device_event_log_impl.cc(222)] [22:42:21.148] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)

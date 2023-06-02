@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" >
+<title>Document</title>
+</head>
+<body>
+<!-- <a href="pages/Page-1.html">Page One</a> -->
+<!-- <a href="pages/Page-2.html">Page Two</a> -->
+<!-- <h1>Home Page</h1> -->
+
+<!-- <h3>Ordered lists</h3> -->
+
+<!-- <ol> -->
+<!-- 	<li>One</li> -->
+<!-- 	<li>Two</li> -->
+<!-- 	<li>Three</li> -->
+<!-- </ol> -->
+
+<!-- <hr> -->
+<!-- <ul> -->
+<!-- 	<li>One</li> -->
+<!-- 	<li>Two</li> -->
+<!-- 	<li>Three</li> -->
+<!-- </ul> -->
+
+<!-- <hr> -->
+<!-- <ul> -->
+<!-- 	<li>One -->
+<!-- 		<ul> -->
+<!-- 			<li>Bike</li> -->
+<!-- 			<li>Cars</li> -->
+<!-- 		</ul> -->
+		
+		
+<!-- 	<li>Two</li> -->
+<!-- 	<li>Three</li> -->
+<!-- </ul> -->
+
+<!-- <img src="images/newplot.png" alt="Plot"> -->
+<!-- <hr> -->
+
+<!-- <img src="https://cdn.pixabay.com/photo/2023/02/08/14/13/sea-7776715_960_720.jpg" alt="Sea"> -->
+
+<!-- <table border="1"> -->
+<!-- 	<tr> -->
+<!-- 		<th>ID</th> -->
+<!-- 		<th>Name</th> -->
+<!-- 		<th>Email</th> -->
+<!-- 		<th colspan="2">Phone</th> -->
+<!-- 	</tr> -->
+<!-- 	<tr> -->
+<!-- 		<td>1</td> -->
+<!-- 		<td>Kim</td> -->
+<!-- 		<td>test@gmail.com</td> -->
+<!-- 		<td>+8210</td> -->
+<!-- 		<td>12345678</td> -->
+<!-- 	</tr> -->
+<!-- 	<tr> -->
+<!-- 		<td>2</td> -->
+<!-- 		<td>Lee</td> -->
+<!-- 		<td>test@gmail.com</td> -->
+<!-- 		<td>+8210</td> -->
+<!-- 		<td>12345678</td> -->
+<!-- 	</tr> -->
+<!-- </table> -->
+
+
+<!-- <form method="get"> -->
+<!-- 	<input type="text" name="f_name"><br> -->
+<!-- 	<input type="password" name="password"> -->
+<!-- 	<input type="submit"> -->
+<!-- </form> -->
+
+
+</body>
+</html>

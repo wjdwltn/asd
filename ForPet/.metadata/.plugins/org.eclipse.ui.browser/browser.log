@@ -1,0 +1,17 @@
+
+5월 23, 2023 18:22:46.542 NEW SESSION
+5월 23, 2023 18:22:46.543 [7028:30368:0523/182246.541:ERROR:device_event_log_impl.cc(222)] [18:22:46.539] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 23, 2023 19:24:11.434 [7028:30368:0523/192411.432:ERROR:interface_endpoint_client.cc(696)] Message 0 rejected by interface blink.mojom.WidgetHost
+5월 24, 2023 02:35:10.732 [7028:23568:0524/023510.731:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+5월 24, 2023 04:51:38.999 [7028:23568:0524/023510.732:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+5월 24, 2023 04:51:39.490 [7028:30368:0524/045139.489:ERROR:device_event_log_impl.cc(222)] [04:51:39.489] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 24, 2023 04:51:39.583 [7028:30368:0524/045139.583:ERROR:device_event_log_impl.cc(222)] [04:51:39.582] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 24, 2023 04:51:42.960 [7028:30368:0524/045142.960:ERROR:device_event_log_impl.cc(222)] [04:51:42.959] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 24, 2023 04:51:43.791 [7028:23568:0524/045143.791:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+5월 24, 2023 04:51:43.792 [7028:23568:0524/045143.791:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+5월 24, 2023 08:28:14.213 [7028:10080:0524/082814.212:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+5월 24, 2023 08:28:14.213 [7028:18916:0524/082814.213:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+5월 25, 2023 24:21:46.754 NEW SESSION
+5월 25, 2023 24:21:46.754 [9496:5972:0525/002146.752:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+5월 25, 2023 24:29:16.79 [9496:9588:0525/002916.079:ERROR:device_event_log_impl.cc(222)] [00:29:16.078] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
